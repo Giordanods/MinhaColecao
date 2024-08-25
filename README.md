@@ -1,0 +1,2 @@
+# MinhaColecao
+Gerenciador de Coleções
